@@ -48,16 +48,7 @@ import { SectionWrapper } from '../hoc'
             className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
             
-            As a seasoned Bubble developer, I specialize in crafting dynamic
-            marketplaces, engaging landing pages, and functional dashboards.
-            With my adeptness in Bubble's no-code platform, I swiftly bring
-            your ideas to life without the need for traditional programming 
-            languages. Additionally, I have experience developing with code 
-            frameworks and languages, allowing me to offer hybrid solutions 
-            tailored to your specific needs. Leveraging Bubble's intuitive 
-            interface and extensive plugin ecosystem, I collaborate closely 
-            with clients to ensure their vision is translated into efficient,
-            scalable, and user-friendly solutions. Let's work together !
+            As an experienced FlutterFlow developer, I excel in creating vibrant marketplaces, captivating landing pages, and efficient dashboards. Harnessing the power of FlutterFlow's intuitive interface, I swiftly transform your concepts into reality without the complexities of traditional coding. Moreover, my proficiency extends to coding frameworks and languages, enabling me to provide customized hybrid solutions that precisely fit your requirements. By leveraging FlutterFlow's robust plugin ecosystem, I work closely with clients to guarantee seamless translation of their vision into scalable, user-friendly applications. Let's collaborate and bring your ideas to life with FlutterFlow!
           </motion.p>
     
           <div className='mt-20 flex flex-wrap gap-10'>
